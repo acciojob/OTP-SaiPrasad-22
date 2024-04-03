@@ -1,26 +1,27 @@
 body {
-  font-family: Arial, sans-serif;
-  text-align: center;
-  margin-top: 50px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
 }
 
 .code-container {
-  margin-top: 20px;
+    margin-top: 20px;
 }
 
 .code {
-  width: 40px;
-  height: 40px;
-  font-size: 20px;
-  text-align: center;
-  margin: 0 5px;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 5px;
+    border: 1px solid #ccc;
 }
 
 #verification_heading {
-  font-size: 28px;
+    font-size: 28px;
 }
 
 #verification_subtext {
-  font-size: 18px;
-  margin-top: 10px;
+    font-size: 18px;
+    margin-top: 10px;
 }
