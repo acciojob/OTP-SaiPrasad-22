@@ -25,3 +25,17 @@ body {
     font-size: 18px;
     margin-top: 10px;
 }
+
+input{
+	
+}
+
+.email{
+	margin-top : 40px;
+	background-color : lightgrey;
+	max-width : 55%;
+	padding : 15px;
+	opacity : 0.5;
+	margin : auto;
+	border-radius : 5px;	
+}
